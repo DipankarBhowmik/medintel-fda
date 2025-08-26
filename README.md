@@ -1,5 +1,5 @@
 # Zero-Cost AI for Healthcare: Semi-Agentic Biomedical Pipeline with Ollama Mistral, MedlinePlus &amp; FDA
-<img src="medline_fda_vid_V5_19.gif" alt="meline_fda1" width="400"/>
+<img src="medline_fda_vid_V5_19.gif" alt="meline_fda1" width="400"/></img>
 This pipeline leverages a semi-agentic design - combining rule-based retrieval (structured APIs, ChromaDB semantic search) with AI reasoning components (summarization and drug extraction via Mistral). The result is a streamlined system that:
 ### Retrieves medical information from MedlinePlus
 ### Uses LLM-powered reasoning to summarize text and extract key medicines
