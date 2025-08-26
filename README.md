@@ -5,10 +5,10 @@ This pipeline leverages a semi-agentic design - combining rule-based retriev
 ### Enriches drug details using FDA's open drug label API
 ### Operates at zero infrastructure cost using local AI (Ollama), open datasets, and free libraries
 
-### Now, anyone can install and run it
-### After downloading, in command prompt type
+## Now, anyone can install and run it
+#### After downloading, in command prompt type
 "pip install -e ."
-### Then run with streamlit
+#### Then run with streamlit
 "streamlit run medintel/app.py"
 
 Install Ollama from https://ollama.com/download and let it operate in the background. Then, to pull deepseek-r1:1.5b, use the following command.
