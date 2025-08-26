@@ -10,9 +10,10 @@ This project demonstrates how data science + AI + open biomedical resources can 
 <img src="meline_fda_summ.png" alt="meline_fda" width="400"/>
 ### The project's comprehensive process is shown below.
 <img src="diagram-export-8-25-2025-8_13_01-PM.png" alt="meline_fda" width="400"/>
-## Now, anyone can install and run it:
-#### After downloading, in command prompt type:
+### Now, anyone can install and run it
+### After downloading, in command prompt type
 "pip install -e ."
-#### Then run with streamlit
+### Then run with streamlit
 "streamlit run medintel/app.py"
+
 Install Ollama from https://ollama.com/download and let it operate in the background. Then, to pull deepseek-r1:1.5b, use the following command.
