@@ -1,7 +1,0 @@
-streamlit
-requests
-beautifulsoup4
-chromadb
-langchain
-langchain-community
-ollama
