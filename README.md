@@ -15,7 +15,7 @@ This project demonstrates how data science + AI + open biomedical resources can 
 
 Install Ollama from https://ollama.com/download and let it operate in the background. Then, to pull deepseek-r1:1.5b, use the following command.
 
-### Overall workflow is as follows.
+### Overall workflow is as follows. ###
 <img src="meline_fda_summ.png" alt="meline_fda" width="400"/>
 ### The project's comprehensive process is shown below.
 <img src="diagram-export-8-25-2025-8_13_01-PM.png" alt="meline_fda" width="400"/>
