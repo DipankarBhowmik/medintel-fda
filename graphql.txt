@@ -1,0 +1,13 @@
+medintel-fda/
+│
+├── medintel/                       # Main package
+│   ├── __init__.py		    # <--- must exist (can be empty)
+│   ├── app.py                      # Streamlit entry point (main UI)
+│   ├── medlineplus.py              # Functions for MedlinePlus search
+│   ├── openfda.py                  # Functions for OpenFDA drug search
+│   ├── utils.py                    # Shared utilities (e.g., html_to_text)
+│   └── ai_processing.py            # LLM-related summarization/extraction
+│
+├── requirements.txt
+├── setup.py
+└── README.md
