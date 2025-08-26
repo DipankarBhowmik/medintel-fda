@@ -1,4 +1,5 @@
 # Zero-Cost AI for Healthcare: Semi-Agentic Biomedical Pipeline with Ollama Mistral, MedlinePlus &amp; FDA
+<img src="medline_fda_vid_V5_19.gif" alt="meline_fda1" width="400"/>
 This pipeline leverages a semi-agentic design - combining rule-based retrieval (structured APIs, ChromaDB semantic search) with AI reasoning components (summarization and drug extraction via Mistral). The result is a streamlined system that:
 ### Retrieves medical information from MedlinePlus
 ### Uses LLM-powered reasoning to summarize text and extract key medicines
@@ -16,6 +17,6 @@ This project demonstrates how data science + AI + open biomedical resources can 
 Install Ollama from https://ollama.com/download and let it operate in the background. Then, to pull deepseek-r1:1.5b, use the following command.
 
 ### Overall workflow is as follows. ###
-<img src="meline_fda_summ.png" alt="meline_fda" width="400"/>
+<img src="meline_fda_summ.png" alt="meline_fda2" width="400"/>
 The project's comprehensive process is shown below.
-<img src="diagram-export-8-25-2025-8_13_01-PM.png" alt="meline_fda" width="400"/>
+<img src="diagram-export-8-25-2025-8_13_01-PM.png" alt="meline_fda3" width="400"/>
